@@ -1,0 +1,5 @@
+{
+	"hello": "hello",
+	"bye": "bye",
+	"message": "first message {{ m1 }} and second message:{{ m2 }}"
+}
